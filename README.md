@@ -1,8 +1,8 @@
-# S&P 500 Volatility Clipping
-Volatility clipping on SPY ETF returns, a risk-management strategy that dynamically scales exposure based on realized volatility. Backtests show it consistently outperforms standard S&amp;P 500 buy-and-hold by ~2% YoY, offering improved risk-adjusted returns.
+# S&P 500 Volatility Targeting
+Volatility targeting on SPY ETF returns, a risk-management strategy that dynamically scales exposure based on realized volatility. Backtests show it consistently outperforms standard S&amp;P 500 buy-and-hold by ~2% YoY, offering improved risk-adjusted returns.
 
 
-Volatility Clipping is a simple risk-management technique that adjusts exposure based on recent realized volatility. Instead of holding SPY at full weight, the strategy scales position size inversely with volatility: reducing exposure in turbulent markets to limit drawdowns, and increasing exposure in calmer periods to capture steadier growth.
+Volatility targeting is a simple risk-management technique that adjusts exposure based on recent realized volatility. Instead of holding SPY at full weight, the strategy scales position size inversely with volatility: reducing exposure in turbulent markets to limit drawdowns, and increasing exposure in calmer periods to capture steadier growth.
 
 This approach keeps portfolio volatility more consistent over time, smooths the equity curve, and often improves long-term risk-adjusted returns compared to a passive buy-and-hold of the S&P 500.
 
